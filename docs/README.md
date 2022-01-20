@@ -1,0 +1,1 @@
+So far I have learned how to create a repository, and push all my data upstream to that git repository, as well as edit it.
